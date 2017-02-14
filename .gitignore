@@ -1,0 +1,12 @@
+
+*.suo
+*.user
+
+/.vs
+/packages
+
+/HttpClient/obj
+/HttpClient/bin
+
+/Web.Http/obj
+/Web.Http/bin
